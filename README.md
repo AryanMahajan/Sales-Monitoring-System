@@ -19,4 +19,4 @@ In today's digital age, automation is essential for businesses to stay ahead of 
 **How to install matplotlib**
 1. Open CMD on your device
 2. Enter the following command to download matplotlib
-3. pip install matpoltlib
+3. pip install matplotlib
