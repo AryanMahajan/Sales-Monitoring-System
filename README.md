@@ -1,6 +1,6 @@
 # Sales-Monitoring-System
 
-**Overiview**
+**Overview**
 The sales monitoring system is a data visualization-based project done with the help of python language. The sales monitoring system is very useful for the shopkeepers as they can visualize the sales they had in months weeks or days.
 
 Today one cannot afford to rely on the fallible human beings who want to stand against today’s ruthless competition where not wise saying “to err is human” is no longer valid, it’s outdated to rationalize your mistake. So, to keep pace with time, to bring about the best result without malfunctioning, and to greater efficiency to replace the unending heaps of flies with a much more sophisticated hard disk of the computer. One has to use the data visualization software. Software has been an ascent in the atomization of various organizations. Many software products are now in the markets, which have helped in making the organizations work easier and efficiently. Data visualization initially had to maintain a lot of ledgers and a lot of paperwork had to be done. Still, now software product in this organization has made their work faster and easier. Now only this software has to be loaded on the computer and work can be done. This saves a lot of time and money. The work becomes fully automated and any information regarding the organization can be obtained by clicking the button. Moreover, now it’s an age of computers, and automating such an organization gives a better look.# Sales-Monitoring-System
